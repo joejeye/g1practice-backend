@@ -1,6 +1,6 @@
 # Practice For Ontario G1 Test: Backend
 
-This program is the backend component of the *Practice For Ontario G1 Test* project. It works with the [Practice For Ontario G1 Test: Frontend](https://github.com/joejeye/g1practice-frontend) developed by React.js.
+This program is the backend component of the *Practice For Ontario G1 Test* project. It works with the [Practice For Ontario G1 Test: Frontend](https://github.com/joejeye/g1practice-frontend) developed with React.js.
 
 ## Overview
 
